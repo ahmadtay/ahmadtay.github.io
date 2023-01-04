@@ -6,24 +6,28 @@ subtitle:
       
 profile:
   align: right
-  image: Anis_photo.png
-  description : 
+  image: prof_pic.jpg
+  description : n
   image_circular: False # crops the image to make it circular
   address: >
-    <p>Research Engineer<p>
+    <p>Postdoctoral Researcher<p>
     <p>IMT Atlantique, LABSTICC</p>
     <p>Brest, France<p>
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my website which is a tentative to gather my teaching and research activities.
+!!!!!!SITE IS BEING CONSTRUCTED!!!!!!
 
-I am a PhD on applied mathematics with a specialization in statistics. My research interests include decision theory, shrinkage estimators and multivariate statistics.
+Welcome, Bienvenus, Bienvenidos, اهلا بكم
 
-Currently, I am a research engineer at the [LABSTICC](https://labsticc.fr/en) laboratory within the [MOTEL](https://labsticc.fr/fr/equipes/motel) team since September 2021. I am also a freelance mentor on the [Openclassrooms](https://openclassrooms.com/fr/paths/164-data-scientist) data training paths (Data Science, Data Analyst and Machine Learning Engineer).
+Ahmad TAY received his B.Sc. degree in Statistics from the Lebanese University, Beirut, Lebanon, in 2013.  He also got his M.Sc. degree in Mathematical Modelling and Applications from the same university in 2015. Ahmad was a doctoral researcher in Automatic Control, Signals and Robotics at [LIS](https://www.lis-lab.fr/cde/) laboratory (UMR CNRS 7020) in Toulon, France. He defended his Ph.D. thesis in 2021 at the [University of Toulon](https://ed548.univ-tln.fr/soutenance-de-these-m-ahmad-tay-lis/).
 
-From 2019 to 2021 I was a temporary teaching and research assistant (ATER) at [INSA de Rouen Normandie](https://www.insa-rouen.fr).
+From 2020 to 2022, Ahmad worked as an assistant professor (ATER) of Machine Learning and Signal Processing at [INSA de Rouen Normandie](https://www.insa-rouen.fr). He was also a member of [LITIS](https://www.litislab.fr/annuaire) laboratory (EA 4108) where he conducted research within the [APP](https://www.litislab.fr/equipe/app) team.
 
+Since October 2022, he is a postdoctoral fellow  at [LABSTICC](https://labsticc.fr/en) laboratory (UMR CNRS 6825), within the [RAMBO](https://labsticc.fr/fr/equipes/rambo) research team. 
 
+Ahmad's research activities focus on designing and building intelligent systems for decision support.
+
+Keywords:  Machine Learning, Artificial Intelligence, Fuzzy Logic, Data Science

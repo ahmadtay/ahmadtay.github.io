@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: All my published papers in reverse chronological order.
 years: [2018,2020,2021,2022]
-nav: true
+nav: false
 nav_order: 1
 ---
 <!-- _pages/talks.md -->

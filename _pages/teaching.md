@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Please note that I taught all the following courses in French.
-nav: true
+nav: false
 nav_order: 2
 ---
 
