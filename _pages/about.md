@@ -6,12 +6,12 @@ subtitle:
       
 profile:
   align: right
-  image: prof_pic.jpg
-  description : n
+  image: me22.jpg
+  description : 
   image_circular: False # crops the image to make it circular
   address: >
     <p>Postdoctoral Researcher<p>
-    <p>IMT Atlantique, LABSTICC</p>
+    <p>IMT Atlantique, Lab-STICC</p>
     <p>Brest, France<p>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,8 +26,9 @@ Ahmad TAY received his B.Sc. degree in Statistics from the Lebanese University, 
 
 From 2020 to 2022, Ahmad worked as an assistant professor (ATER) of Machine Learning and Signal Processing at [INSA de Rouen Normandie](https://www.insa-rouen.fr). He was also a member of [LITIS](https://www.litislab.fr/annuaire) laboratory (EA 4108) where he conducted research within the [APP](https://www.litislab.fr/equipe/app) team.
 
-Since October 2022, he is a postdoctoral fellow  at [LABSTICC](https://labsticc.fr/en) laboratory (UMR CNRS 6825), within the [RAMBO](https://labsticc.fr/fr/equipes/rambo) research team. 
+Since October 2022, he is a postdoctoral fellow  at [Lab-STICC](https://labsticc.fr/en) laboratory (UMR CNRS 6825), within the [RAMBO](https://labsticc.fr/fr/equipes/rambo) research team. 
 
-Ahmad's research activities focus on designing and building intelligent systems for decision support.
+Ahmad's research activities focus on leveraging symbolic and digital artificial intelligence methods to build intelligent systems for decision support.
 
-Keywords:  Machine Learning, Artificial Intelligence, Fuzzy Logic, Data Science
+Keywords:  Machine/Deep Learning, Artificial Intelligence, Fuzzy Logic, Data Science, Signal Processing
+

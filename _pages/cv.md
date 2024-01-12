@@ -1,10 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
-nav: false
-nav_order: 4
-cv_pdf: 
----
+title: Curriculum Vitae
+nav: true
+nav_order: 2
+description: Professional CV
+cv_pdf: Ahmad_TAY_CV_PRO_1_2024.pdf
 
+---
 
