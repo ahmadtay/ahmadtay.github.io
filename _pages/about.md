@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: me22.jpg
-  description : 
+  description : n
   image_circular: False # crops the image to make it circular
   address: >
     <p>Postdoctoral Researcher<p>
