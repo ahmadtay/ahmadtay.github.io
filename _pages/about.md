@@ -28,7 +28,8 @@ From 2020 to 2022, Ahmad worked as an assistant professor (ATER) of Machine Lear
 
 Between October 2022 and April 2024, he was a postdoctoral fellow  at [Lab-STICC](https://labsticc.fr/en) laboratory (UMR CNRS 6825), within the [RAMBO](https://labsticc.fr/fr/equipes/rambo) research team. 
 
-He is currently associate professor in Big data and Artificial Intelligence at [EFREI-Paris](https://www.efrei.fr) and a member of [EFREI-Research lab](https://www.efrei.fr/innovation-recherche/le-laboratoire-de-recherche/equipe/)
+He is currently associate professor in Big data and Artificial Intelligence at [EFREI-Paris](https://www.efrei.fr) and a member of [EFREI-Research lab](https://www.efrei.fr/innovation-recherche/le-laboratoire-de-recherche/equipe/). 
+
 Ahmad's research activities focus on leveraging symbolic and digital artificial intelligence methods to build intelligent systems for decision support.
 
 Keywords:  Machine/Deep Learning, Artificial Intelligence, Fuzzy Logic, Data Science, Signal Processing
